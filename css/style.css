@@ -1,0 +1,4 @@
+.bg-body-tertiary {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, green 0%, green 100%);
+}
